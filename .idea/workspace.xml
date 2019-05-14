@@ -1,0 +1,1179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/README.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-core-console-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-core-datetime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-core-debug-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-core-errorhandling-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-core-file-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-core-file-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-core-file-l2-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-core-handle-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-core-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-core-interlocked-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-core-libraryloader-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-core-localization-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-core-memory-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-core-namedpipe-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-core-processenvironment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-core-processthreads-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-core-processthreads-l1-1-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-core-profile-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-core-rtlsupport-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-core-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-core-synch-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-core-synch-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-core-sysinfo-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-core-timezone-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-core-util-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-crt-conio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-crt-convert-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-crt-environment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-crt-filesystem-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-crt-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-crt-locale-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-crt-math-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-crt-multibyte-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-crt-private-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-crt-process-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-crt-runtime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-crt-stdio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-crt-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-crt-time-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/api-ms-win-crt-utility-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/attach.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/awt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/dt_shmem.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/dt_socket.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/fontmanager.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/freetype.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/instrument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/j2gss.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/j2pcsc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/j2pkcs11.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jaas.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jabswitch.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jaccessinspector.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jaccesswalker.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jaotc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jar.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jarsigner.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/java.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/java.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/javaaccessbridge.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/javac.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/javadoc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/javajpeg.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/javap.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/javaw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jawt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jcmd.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jconsole.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jdb.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jdeprscan.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jdeps.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jdwp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jhsdb.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jimage.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jimage.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jinfo.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jjs.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jli.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jlink.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jmap.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jmod.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jps.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jrunscript.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jshell.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jsound.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jstack.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jstat.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/jstatd.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/keytool.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/kinit.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/klist.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/ktab.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/lcms.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/le.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/management.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/management_agent.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/management_ext.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/mlib_image.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/msvcp140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/net.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/nio.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/pack200.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/prefs.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/rmi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/rmic.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/rmid.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/rmiregistry.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/saproc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/serialver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/server/jvm.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/splashscreen.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/sunec.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/sunmscapi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/ucrtbase.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/unpack.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/unpack200.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/vcruntime140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/verify.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/w2k_lsa_auth.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/windowsaccessbridge-64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/bin/zip.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/conf/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/conf/management/jmxremote.access" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/conf/management/jmxremote.password.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/conf/management/management.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/conf/net.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/conf/security/java.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/conf/security/java.security" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/conf/security/policy/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/conf/security/policy/limited/default_US_export.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/conf/security/policy/limited/default_local.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/conf/security/policy/limited/exempt_local.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/conf/security/policy/unlimited/default_US_export.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/conf/security/policy/unlimited/default_local.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/conf/sound.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/include/classfile_constants.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/include/jawt.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/include/jdwpTransport.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/include/jni.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/include/jvmti.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/include/jvmticmlr.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/include/win32/bridge/AccessBridgeCallbacks.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/include/win32/bridge/AccessBridgeCalls.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/include/win32/bridge/AccessBridgePackages.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/include/win32/jawt_md.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/include/win32/jni_md.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/java.base.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/java.compiler.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/java.datatransfer.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/java.desktop.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/java.instrument.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/java.logging.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/java.management.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/java.management.rmi.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/java.naming.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/java.net.http.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/java.prefs.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/java.rmi.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/java.scripting.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/java.se.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/java.security.jgss.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/java.security.sasl.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/java.smartcardio.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/java.sql.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/java.sql.rowset.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/java.transaction.xa.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/java.xml.crypto.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/java.xml.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.accessibility.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.aot.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.attach.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.charsets.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.compiler.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.crypto.cryptoki.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.crypto.ec.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.crypto.mscapi.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.dynalink.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.editpad.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.hotspot.agent.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.httpserver.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.internal.ed.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.internal.jvmstat.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.internal.le.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.internal.opt.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.internal.vm.ci.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.internal.vm.compiler.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.internal.vm.compiler.management.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.jartool.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.javadoc.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.jcmd.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.jconsole.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.jdeps.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.jdi.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.jdwp.agent.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.jfr.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.jlink.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.jshell.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.jsobject.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.jstatd.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.localedata.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.management.agent.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.management.jfr.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.management.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.naming.dns.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.naming.rmi.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.net.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.pack.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.rmic.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.scripting.nashorn.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.scripting.nashorn.shell.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.sctp.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.security.auth.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.security.jgss.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.unsupported.desktop.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.unsupported.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.xml.dom.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/jmods/jdk.zipfs.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.base/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.base/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.base/aes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.base/asm.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.base/c-libutl.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.base/cldr.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.base/icu.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.base/public_suffix.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.base/unicode.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.base/zlib.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.compiler/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.compiler/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.datatransfer/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.datatransfer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.desktop/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.desktop/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.desktop/colorimaging.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.desktop/freetype.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.desktop/giflib.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.desktop/harfbuzz.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.desktop/jpeg.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.desktop/lcms.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.desktop/libpng.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.desktop/mesa3d.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.desktop/opengl.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.instrument/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.instrument/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.logging/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.logging/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.management.rmi/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.management.rmi/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.management/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.management/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.naming/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.naming/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.net.http/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.net.http/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.prefs/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.prefs/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.rmi/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.rmi/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.scripting/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.scripting/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.se/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.se/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.security.jgss/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.security.jgss/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.security.sasl/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.security.sasl/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.smartcardio/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.smartcardio/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.sql.rowset/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.sql.rowset/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.sql/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.sql/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.transaction.xa/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.transaction.xa/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.xml.crypto/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.xml.crypto/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.xml.crypto/santuario.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.xml/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.xml/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.xml/bcel.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.xml/dom.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.xml/jcup.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.xml/xalan.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/java.xml/xerces.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.accessibility/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.accessibility/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.aot/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.aot/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.attach/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.attach/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.charsets/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.charsets/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.compiler/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.compiler/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.crypto.cryptoki/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.crypto.cryptoki/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.crypto.cryptoki/pkcs11cryptotoken.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.crypto.cryptoki/pkcs11wrapper.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.crypto.ec/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.crypto.ec/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.crypto.ec/ecc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.crypto.mscapi/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.crypto.mscapi/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.dynalink/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.dynalink/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.dynalink/dynalink.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.editpad/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.editpad/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.hotspot.agent/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.hotspot.agent/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.httpserver/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.httpserver/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.internal.ed/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.internal.ed/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.internal.jvmstat/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.internal.jvmstat/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.internal.le/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.internal.le/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.internal.le/jline.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.internal.opt/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.internal.opt/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.internal.opt/jopt-simple.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.internal.vm.ci/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.internal.vm.ci/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.internal.vm.compiler.management/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.internal.vm.compiler.management/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.internal.vm.compiler/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.internal.vm.compiler/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.jartool/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.jartool/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.javadoc/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.javadoc/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.javadoc/jquery-migrate.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.javadoc/jquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.javadoc/jqueryUI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.javadoc/jszip.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.javadoc/pako.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.jcmd/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.jcmd/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.jconsole/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.jconsole/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.jdeps/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.jdeps/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.jdi/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.jdi/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.jdwp.agent/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.jdwp.agent/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.jfr/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.jfr/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.jlink/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.jlink/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.jshell/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.jshell/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.jsobject/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.jsobject/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.jstatd/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.jstatd/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.localedata/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.localedata/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.localedata/cldr.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.localedata/thaidict.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.management.agent/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.management.agent/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.management.jfr/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.management.jfr/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.management/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.management/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.naming.dns/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.naming.dns/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.naming.rmi/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.naming.rmi/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.net/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.net/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.pack/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.pack/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.rmic/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.rmic/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.scripting.nashorn.shell/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.scripting.nashorn.shell/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.scripting.nashorn/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.scripting.nashorn/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.scripting.nashorn/double-conversion.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.scripting.nashorn/joni.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.sctp/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.sctp/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.security.auth/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.security.auth/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.security.jgss/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.security.jgss/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.unsupported.desktop/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.unsupported.desktop/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.unsupported/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.unsupported/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.xml.dom/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.xml.dom/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.zipfs/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/legal/jdk.zipfs/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/lib/classlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/lib/ct.sym" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/lib/fontconfig.bfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/lib/fontconfig.properties.src" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/lib/jawt.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/lib/jfr/default.jfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/lib/jfr/profile.jfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/lib/jrt-fs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/lib/jvm.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/lib/jvm.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/lib/modules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/lib/psfont.properties.ja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/lib/psfontj2d.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/lib/security/blacklisted.certs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/lib/security/cacerts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/lib/security/default.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/lib/security/public_suffix_list.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/lib/server/Xusage.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/lib/src.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/lib/tzdb.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/lib/tzmappings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDK/jdk-11.0.1/release" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Avon/src/AvonTlo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/excludeFromValidation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/controlsfx_8_40_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/Controller_Edytuj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/Dodaj_zamowienie/Miesiac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/Dodaj_zamowienie/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/Dodaj_zamowienie/OrderList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/Dodaj_zamowienie/PersonList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/sample_Edytuj.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programy_old/ksiazka/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programy_old/ksiazka/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programy_old/program losujacy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programy_old/trojkat/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../~$Ściąga.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1-1000000/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1-1000000/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1-1000000/1-1000000.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kalkulator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kalkulator/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ciag fibonaciego/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ciag fibonaciego/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ciag fibonaciego/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ciag fibonaciego/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grafika/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zajecia dziedziczenie/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <ignored path="JavaFxApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-453029290">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="bin" value="2" />
+          <entry key="fxml" value="277" />
+          <entry key="java" value="3352" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="BINARY_FILE" value="2" />
+          <entry key="JAVA" value="3352" />
+          <entry key="XML" value="277" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="bin" value="3" />
+          <entry key="fxml" value="1" />
+          <entry key="inputfile" value="2" />
+          <entry key="java" value="12" />
+          <entry key="ser" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="BINARY_FILE" value="1" />
+          <entry key="JAVA" value="12" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="SQL" value="2" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="77" column="59" lean-forward="true" selection-start-line="77" selection-start-column="59" selection-end-line="77" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#Edytuj_zamowienie#0;class#Controller#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-294">
+              <caret line="33" column="140" selection-start-line="33" selection-start-column="140" selection-end-line="33" selection-end-column="140" />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Dodaj_zamowienie/Miesiac.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Dodaj_zamowienie/PersonList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sample/Dodaj_zamowienie/Order.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="75" lean-forward="true" selection-start-line="13" selection-start-column="75" selection-end-line="13" selection-end-column="75" />
+              <folding>
+                <element signature="e#530#531#0" expanded="true" />
+                <element signature="e#552#553#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Dodaj_zamowienie/OrderList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/sample_Edytuj.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="33" column="128" selection-start-line="33" selection-start-column="128" selection-end-line="33" selection-end-column="128" />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Controller_Edytuj.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cofnij</find>
+      <find>ancho</find>
+      <find>separator</find>
+      <find>lista</find>
+    </findStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/sample/sample_Edytuj.fxml" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/sample/Person.java" />
+        <option value="$PROJECT_DIR$/src/sample/PersonList.java" />
+        <option value="$PROJECT_DIR$/src/sample/OrderList2.java" />
+        <option value="$PROJECT_DIR$/src/sample/Orderlist2.java" />
+        <option value="$PROJECT_DIR$/inputfile" />
+        <option value="$PROJECT_DIR$/src/sample/Order.java" />
+        <option value="$PROJECT_DIR$/Order.bin" />
+        <option value="$PROJECT_DIR$/src/sample/Main.java" />
+        <option value="$PROJECT_DIR$/src/sample/Miesiac.java" />
+        <option value="$PROJECT_DIR$/src/sample/OrderList.java" />
+        <option value="$PROJECT_DIR$/src/sample/Dodaj_zamowienie/OrderList.java" />
+        <option value="$PROJECT_DIR$/src/sample/Controller_Edytuj.java" />
+        <option value="$PROJECT_DIR$/src/sample/sample_Edytuj.fxml" />
+        <option value="$PROJECT_DIR$/src/sample/sample.fxml" />
+        <option value="$PROJECT_DIR$/src/sample/Controller.java" />
+        <option value="$PROJECT_DIR$/src/sample/Dodaj_zamowienie/Order.java" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-1" />
+    <option name="y" value="85" />
+    <option name="width" value="1612" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Avon2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Avon2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Avon2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Avon2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Avon2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Avon2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Avon2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557855445772" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Avon" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="Avon2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1302000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.21321961" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35427952" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Problems" order="9" />
+      <window_info anchor="bottom" id="Changes" order="10" />
+      <window_info anchor="bottom" id="Profiler" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.2654388" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="JetGradle" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info content_ui="combo" id="Project" order="4" sideWeight="0.6703755" visible="true" weight="0.20895523" />
+      <window_info id="Structure" order="5" weight="0.25" />
+      <window_info id="Favorites" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Application Servers" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Problems" order="10" />
+      <window_info anchor="bottom" id="Changes" order="11" />
+      <window_info anchor="bottom" id="Profiler" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.2654388" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="right" id="JetGradle" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Obiekt.ser">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="82" selection-start-line="1" selection-start-column="82" selection-end-line="1" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/javafx-src.zip!/com/sun/glass/ui/win/WinApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="176" selection-start-line="176" selection-end-line="176" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inputfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Orderlist2.java" />
+    <entry file="file://$PROJECT_DIR$/Order.bin">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="93" selection-start-column="93" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="656" selection-start-line="656" selection-end-line="656" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayListOfCustomer.ser">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="202" selection-start-line="1" selection-start-column="129" selection-end-line="1" selection-end-column="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/net/URLClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="381" selection-start-line="381" selection-end-line="381" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller_Edytuj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListaZamowienBierzacych.bin">
+      <provider selected="true" editor-type-id="org.exbin.bined" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Dodaj_zamowienie/PersonList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/sample_Edytuj.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="33" column="128" selection-start-line="33" selection-start-column="128" selection-end-line="33" selection-end-column="128" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Dodaj_zamowienie/OrderList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Dodaj_zamowienie/Miesiac.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-294">
+          <caret line="33" column="140" selection-start-line="33" selection-start-column="140" selection-end-line="33" selection-end-column="140" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="77" column="59" lean-forward="true" selection-start-line="77" selection-start-column="59" selection-end-line="77" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Edytuj_zamowienie#0;class#Controller#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Dodaj_zamowienie/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="75" lean-forward="true" selection-start-line="13" selection-start-column="75" selection-end-line="13" selection-end-column="75" />
+          <folding>
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JavaFXApp</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Avon2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
