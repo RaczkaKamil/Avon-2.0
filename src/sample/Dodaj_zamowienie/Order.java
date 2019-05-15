@@ -59,6 +59,10 @@ public class Order implements Serializable {
         this.należność = należność;
     }
 
+    public int getId() {
+        return id;
+    }
+
     @Override
     public String toString() {
         return  id+". "+  osoba + "  " +

@@ -435,7 +435,6 @@
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Avon2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaZamowienBierzacych.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Avon2/sample/Controller.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Avon2/sample/Controller_Edytuj.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Avon2/sample/Dodaj_zamowienie/Miesiac.class" afterDir="false" />
@@ -445,12 +444,13 @@
       <change afterPath="$PROJECT_DIR$/out/production/Avon2/sample/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Avon2/sample/sample.fxml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Avon2/sample/sample_Edytuj.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/Controller.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/sample/Dodaj_zamowienie/Miesiac.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/sample/Dodaj_zamowienie/Order.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/sample/Dodaj_zamowienie/PersonList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/Sprawdzenie.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/sample_Edytuj.fxml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Programy_old/ksiazka/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Programy_old/ksiazka/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Programy_old/program losujacy/.idea/vcs.xml" afterDir="false" />
@@ -461,16 +461,17 @@
       <change beforePath="$PROJECT_DIR$/../../1-1000000/1-1000000.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Kalkulator/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Kalkulator/untitled.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ListaZamowienBierzacych.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Avon2/sample/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Avon2/sample/Controller.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Avon2/sample/Controller_Edytuj.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Avon2/sample/Controller_Edytuj.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Avon2/sample/Dodaj_zamowienie/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Avon2/sample/Dodaj_zamowienie/Order.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Avon2/sample/Dodaj_zamowienie/OrderList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Avon2/sample/Dodaj_zamowienie/OrderList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Avon2/sample/Dodaj_zamowienie/PersonList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Avon2/sample/Dodaj_zamowienie/PersonList.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Avon2/sample/sample_Edytuj.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Avon2/sample/sample_Edytuj.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Controller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sample/Controller_Edytuj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Controller_Edytuj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Dodaj_zamowienie/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Dodaj_zamowienie/Order.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sample/Dodaj_zamowienie/OrderList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Dodaj_zamowienie/OrderList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Dodaj_zamowienie/PersonList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Dodaj_zamowienie/PersonList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sample/sample_Edytuj.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/sample_Edytuj.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ciag fibonaciego/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ciag fibonaciego/.idea/misc.xml" beforeDir="false" />
@@ -540,40 +541,41 @@
     <session id="-453029290">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="bin" value="2" />
-          <entry key="fxml" value="312" />
-          <entry key="java" value="4128" />
+          <entry key="fxml" value="335" />
+          <entry key="java" value="6503" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="BINARY_FILE" value="2" />
-          <entry key="JAVA" value="4128" />
-          <entry key="XML" value="312" />
+          <entry key="JAVA" value="6503" />
+          <entry key="XML" value="335" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="bin" value="3" />
+          <entry key="bin" value="5" />
           <entry key="fxml" value="2" />
           <entry key="inputfile" value="2" />
-          <entry key="java" value="13" />
+          <entry key="java" value="14" />
           <entry key="ser" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="BINARY_FILE" value="1" />
-          <entry key="JAVA" value="13" />
+          <entry key="BINARY_FILE" value="3" />
+          <entry key="JAVA" value="14" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="SQL" value="2" />
           <entry key="XML" value="2" />
@@ -587,69 +589,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/Dodaj_zamowienie/Miesiac.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/Dodaj_zamowienie/PersonList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sample/Dodaj_zamowienie/Order.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+        <entry file="file://$PROJECT_DIR$/src/sample/Sprawdzenie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sample/Dodaj_zamowienie/OrderList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="68" column="13" lean-forward="true" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
-                <element signature="e#506#507#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/Controller_Edytuj.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="54" column="70" selection-start-line="54" selection-start-column="70" selection-end-line="54" selection-end-column="70" />
+            <state relative-caret-position="-663">
+              <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -660,8 +612,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+            <state relative-caret-position="161">
+              <caret line="55" column="46" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="46" />
             </state>
           </provider>
           <provider editor-type-id="JavaFX-Scene-Builder" />
@@ -670,11 +622,47 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sample/sample_Edytuj.fxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="56" column="109" lean-forward="true" selection-start-line="56" selection-start-column="109" selection-end-line="56" selection-end-column="109" />
+            <state relative-caret-position="714">
+              <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
             </state>
           </provider>
           <provider editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="577">
+              <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Controller_Edytuj.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="75" column="110" lean-forward="true" selection-start-line="75" selection-start-column="110" selection-end-line="75" selection-end-column="110" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sample/Dodaj_zamowienie/OrderList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="101" column="35" selection-start-line="101" selection-start-column="35" selection-end-line="101" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -682,8 +670,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -694,6 +682,10 @@
       <find>separator</find>
       <find>lista</find>
       <find>dodaj za</find>
+      <find>textA</find>
+      <find>setID</find>
+      <find>set</find>
+      <find>setId</find>
     </findStrings>
   </component>
   <component name="FindManager">
@@ -721,10 +713,11 @@
         <option value="$PROJECT_DIR$/src/sample/Miesiac.java" />
         <option value="$PROJECT_DIR$/src/sample/OrderList.java" />
         <option value="$PROJECT_DIR$/src/sample/sample.fxml" />
-        <option value="$PROJECT_DIR$/src/sample/Controller.java" />
-        <option value="$PROJECT_DIR$/src/sample/Dodaj_zamowienie/Order.java" />
         <option value="$PROJECT_DIR$/src/sample/Dodaj_zamowienie/PersonList.java" />
         <option value="$PROJECT_DIR$/src/sample/sample_Edytuj.fxml" />
+        <option value="$PROJECT_DIR$/src/sample/Dodaj_zamowienie/Order.java" />
+        <option value="$PROJECT_DIR$/src/sample/Controller.java" />
+        <option value="$PROJECT_DIR$/src/sample/Sprawdzenie.java" />
         <option value="$PROJECT_DIR$/src/sample/Controller_Edytuj.java" />
         <option value="$PROJECT_DIR$/src/sample/Dodaj_zamowienie/OrderList.java" />
       </list>
@@ -746,6 +739,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -772,8 +767,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -784,7 +777,7 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557860265710" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557949445901" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Avon" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -896,7 +889,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.21748401" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.2217484" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" />
       <window_info id="Designer" order="3" />
@@ -1009,23 +1002,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ListaZamowienBierzacych.bin">
-      <provider selected="true" editor-type-id="org.exbin.bined" />
+    <entry file="file://$PROJECT_DIR$/src/sample/Dodaj_zamowienie/PersonList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/Dodaj_zamowienie/Miesiac.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Dodaj_zamowienie/PersonList.java">
+    <entry file="file://$PROJECT_DIR$/ListaZamowienBierzacych.bin">
+      <provider selected="true" editor-type-id="org.exbin.bined" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/sample_Edytuj.fxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        <state relative-caret-position="714">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="55" column="46" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="46" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Sprawdzenie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663">
+          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1035,40 +1048,24 @@
     <entry file="file://$PROJECT_DIR$/src/sample/Dodaj_zamowienie/Order.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller_Edytuj.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="221">
+          <caret line="75" column="110" lean-forward="true" selection-start-line="75" selection-start-column="110" selection-end-line="75" selection-end-column="110" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/sample_Edytuj.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="56" column="109" lean-forward="true" selection-start-line="56" selection-start-column="109" selection-end-line="56" selection-end-column="109" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Controller_Edytuj.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="54" column="70" selection-start-line="54" selection-start-column="70" selection-end-line="54" selection-end-column="70" />
+        <state relative-caret-position="577">
+          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1077,12 +1074,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/Dodaj_zamowienie/OrderList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="68" column="13" lean-forward="true" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+        <state relative-caret-position="407">
+          <caret line="101" column="35" selection-start-line="101" selection-start-column="35" selection-end-line="101" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
           </folding>
         </state>
       </provider>

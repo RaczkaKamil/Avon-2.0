@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class OrderList implements Serializable {
-    private ArrayList<Order> listaZamowien2;
+
     private List<Order> listaZamowien;
 
     public OrderList() {
@@ -28,11 +28,16 @@ public class OrderList implements Serializable {
 
      public String porownajOsoby(String osoba)
     {
-        System.out.println(osoba);
+        System.out.println("nowa osoba: "+osoba);
+
+        char[] charString = osoba.toCharArray();
+        String stringFirst = String.valueOf(charString[0]);
+        int firstInt=  Integer.parseInt(stringFirst);
         String s = "błąd";
         for (Order o:listaZamowien) {
-            if (osoba.contains(o.getOsoba()))
+            if (o.getId()==firstInt)
             {
+                System.out.println("stara osoba: "+ o.getOsoba());
                 s = o.getOsoba();
             }
         }return s;
@@ -40,9 +45,13 @@ public class OrderList implements Serializable {
 
     public String porownajKod(String kod)
     {
+        char[] charString = kod.toCharArray();
+        String stringFirst = String.valueOf(charString[0]);
+        int firstInt=  Integer.parseInt(stringFirst);
         String s = "Błąd";
+
         for (Order o:listaZamowien) {
-            if (kod.contains(Integer.toString(o.getKod())))
+            if (o.getId()==firstInt)
             {
                 s = Integer.toString( o.getKod());
             }
@@ -51,9 +60,13 @@ public class OrderList implements Serializable {
 
     public String porownajStrone(String strona)
     {
+        char[] charString = strona.toCharArray();
+        String stringFirst = String.valueOf(charString[0]);
+        int firstInt=  Integer.parseInt(stringFirst);
+
         String s = "Błąd";
         for (Order o:listaZamowien) {
-            if (strona.contains(Integer.toString(o.getStrona())))
+            if (o.getId()==firstInt)
             {
 
                  s = Integer.toString( o.getStrona());
@@ -63,9 +76,13 @@ public class OrderList implements Serializable {
 
     public String porownajNaleznosc(String naleznosc)
     {
+        char[] charString = naleznosc.toCharArray();
+        String stringFirst = String.valueOf(charString[0]);
+        int firstInt=  Integer.parseInt(stringFirst);
+
         String s = "Błąd";
         for (Order o:listaZamowien) {
-            if (naleznosc.contains(Double.toString(o.getNależność())))
+            if (o.getId()==firstInt)
             {
                  s = Double.toString(o.getNależność());
 
@@ -73,8 +90,40 @@ public class OrderList implements Serializable {
         }return s;
     }
 
+    public String porownajID(String ID)
+    {
+
+        char[] charString = ID.toCharArray();
+        String stringFirst = String.valueOf(charString[0]);
+        int firstInt=  Integer.parseInt(stringFirst);
+
+        String s = "Błąd";
+        for (Order o:listaZamowien) {
+            if (o.getId()==firstInt)
+            {
+                s = Integer.toString(o.getId());
+
+            }
+        }return s;
+    }
 
 
+    public void edytuj(int id, String osoba, int kod, int strona, double naleznosc)
+    {
+        System.out.println("zmieniono "+id);
+        for (Order o:listaZamowien)
+        {
+            if(o.getId()==id)
+            {
+                o.setOsoba(osoba);
+                o.setKod(kod);
+                o.setStrona(strona);
+                o.setNależność(naleznosc);
+
+            }
+
+        }
+    }
 
 
     public static void zapis( java.util.List<Order> o ) throws IOException {

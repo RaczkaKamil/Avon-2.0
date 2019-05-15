@@ -64,14 +64,14 @@
                   <Font size="18.0" />
                </font>
             </Label>
-            <Button fx:id="wprowadz1" layoutX="304.0" layoutY="696.0" mnemonicParsing="false" onAction="#wprowadzanie" prefHeight="33.0" prefWidth="99.0" text="Zmień" />
+            <Button fx:id="Zmien" layoutX="304.0" layoutY="696.0" mnemonicParsing="false" onAction="#zmiana" prefHeight="33.0" prefWidth="99.0" text="Zmień" />
             <TextArea fx:id="zamowienia_ta" layoutX="871.0" layoutY="310.0" prefHeight="428.0" prefWidth="463.0" />
             <Label layoutX="1004.0" layoutY="257.0" text="Wybierz zamówienie:">
                <font>
                   <Font size="18.0" />
                </font>
             </Label>
-            <Button fx:id="wprowadz11" layoutX="429.0" layoutY="694.0" mnemonicParsing="false" onAction="#wprowadzanie" prefHeight="33.0" prefWidth="99.0" text="Usuń" />
+            <Button fx:id="Usun" layoutX="429.0" layoutY="694.0" mnemonicParsing="false" onAction="#usuwanie" prefHeight="33.0" prefWidth="99.0" text="Usuń" />
     <Label layoutX="178.0" layoutY="124.0" prefHeight="53.0" prefWidth="1224.0" text="                                               Edytuj zamówienia">
         <font>
             <Font size="36.0" />

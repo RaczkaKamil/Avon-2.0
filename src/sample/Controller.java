@@ -48,6 +48,7 @@ public class Controller {
     PersonList personList = new PersonList();
     OrderList orderList = new OrderList();
     Miesiac miesiac = new Miesiac();
+    Sprawdzenie spr = new Sprawdzenie();
 
     public void Edytuj_zamowienie( ActionEvent event) throws IOException {
 
@@ -68,6 +69,8 @@ public class Controller {
         orderList.odczyt();
         zamowienia_ta.setText(orderList.getListaZamowien().toString().substring(1).replace("]", "").replace(",",""));
 
+
+
         LocalDate a = LocalDate.now();
         String miesiacPL = miesiac.tlumacz(a.getMonthValue());
         label.setText("Lista zamówień na " + miesiacPL + ":");
@@ -86,42 +89,23 @@ public class Controller {
         String kodS = kod_tf.getText();
         String stronaS = strona_tf.getText();
         String naleznoscS = naleznosc_tf.getText();
-        if (sprawdzenie(kodS, stronaS, naleznoscS) && !osoba.isEmpty()) {
-            int kod = parseInt(kodS);
-            int strona = parseInt(stronaS);
-            double naleznosc = Double.parseDouble(naleznoscS);
 
-            Order order = new Order();
-            order.Order(osoba, kod, strona, naleznosc);
-            order.setId(orderList.getListaZamowien().size());
+       if(spr.sprawdzenie(osoba,kodS,stronaS,naleznoscS))
+       {
+           int kod = parseInt(kodS);
+           int strona = parseInt(stronaS);
+           double naleznosc = Double.parseDouble(naleznoscS);
+           Order order = new Order();
+           order.Order(osoba, kod, strona, naleznosc);
+           order.setId(orderList.getListaZamowien().size());
+           System.out.println(order.getId());
+           orderList.addlistaZamowien(order);
+           zamowienia_ta.setText(orderList.getListaZamowien().toString().substring(1).replace("]", "").replace(",",""));
+           OrderList.zapis(orderList.getListaZamowien());
+       }
 
-            orderList.addlistaZamowien(order);
-            zamowienia_ta.setText(orderList.getListaZamowien().toString().substring(1).replace("]", "").replace(",",""));
-            OrderList.zapis(orderList.getListaZamowien());
 
-        }
     }
 
-    private boolean sprawdzenie( String kod, String strona, String naleznosc ) {
-        boolean t = false;
-        try {
-            int x = parseInt(kod);
-            int y = parseInt(strona);
-            double z = Double.parseDouble(naleznosc);
-            t = true;
-        } catch (NumberFormatException e) {
-            displayWrongInputDialog();
 
-        }
-
-        return t;
-    }
-
-    private void displayWrongInputDialog() {
-        Alert alert = new Alert(Alert.AlertType.WARNING);
-        alert.setTitle("Złe dane wejściwe");
-        alert.setHeaderText("Złe dane wejściowe");
-        alert.setContentText("W polu 'Kod','Strona' i 'Należność' nie mogą być wpisane litery!!!");
-        alert.showAndWait();
-    }
 }
