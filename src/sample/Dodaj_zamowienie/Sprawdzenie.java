@@ -1,4 +1,4 @@
-package sample;
+package sample.Dodaj_zamowienie;
 
 import javafx.scene.control.Alert;
 

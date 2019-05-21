@@ -10,10 +10,7 @@ import javafx.scene.Scene;
 import javafx.scene.control.*;
 import javafx.stage.Stage;
 import org.controlsfx.control.textfield.TextFields;
-import sample.Dodaj_zamowienie.Miesiac;
-import sample.Dodaj_zamowienie.Order;
-import sample.Dodaj_zamowienie.OrderList;
-import sample.Dodaj_zamowienie.PersonList;
+import sample.Dodaj_zamowienie.*;
 
 import java.io.IOException;
 import java.time.LocalDate;
@@ -41,6 +38,8 @@ public class Controller {
     Button cofnij_bt;
     @FXML
     Button Edytuj_kontroler;
+    @FXML
+    Button Zloz_zamowienie2;
 
     @FXML
     Label label;
@@ -56,6 +55,47 @@ public class Controller {
         Scene tabScene = new Scene(root,1400,900);
 
         Stage windows = (Stage) ((Node) event.getSource()).getScene().getWindow();
+        windows.setScene(tabScene);
+        windows.setX(251);
+        windows.setY(35);
+        windows.show();
+
+    }
+
+
+    public void Zloz_zamowienie( ActionEvent event ) throws IOException {
+
+        Parent root = FXMLLoader.load(getClass().getResource("sample_zloz.fxml"));
+        Scene tabScene = new Scene(root, 1400, 900);
+
+        Stage windows = (Stage) ( (Node) event.getSource() ).getScene().getWindow();
+        windows.setScene(tabScene);
+        windows.setX(251);
+        windows.setY(35);
+        windows.show();
+
+    }
+
+
+    public void Historia_zamowien( ActionEvent event ) throws IOException {
+
+        Parent root = FXMLLoader.load(getClass().getResource("sample_historia.fxml"));
+        Scene tabScene = new Scene(root, 1400, 900);
+
+        Stage windows = (Stage) ( (Node) event.getSource() ).getScene().getWindow();
+        windows.setScene(tabScene);
+        windows.setX(251);
+        windows.setY(35);
+        windows.show();
+
+    }
+
+    public void Lista_klientow( ActionEvent event ) throws IOException {
+
+        Parent root = FXMLLoader.load(getClass().getResource("sample_lista.fxml"));
+        Scene tabScene = new Scene(root, 1400, 900);
+
+        Stage windows = (Stage) ( (Node) event.getSource() ).getScene().getWindow();
         windows.setScene(tabScene);
         windows.setX(251);
         windows.setY(35);

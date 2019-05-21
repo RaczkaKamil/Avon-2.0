@@ -29,9 +29,9 @@
                 <Separator layoutX="164.0" layoutY="113.0" orientation="VERTICAL" prefHeight="753.0" prefWidth="27.0" />
                 <Button layoutX="14.0" layoutY="257.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="155.0" text="Dodaj zamówienie" />
                 <Button fx:id="Edytuj_kontroler" layoutX="14.0" layoutY="375.0" mnemonicParsing="false" onAction="#Edytuj_zamowienie" prefHeight="100.0" prefWidth="155.0" text="Edytuj zamówienia" />
-                <Button layoutX="14.0" layoutY="495.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="155.0" text="Złóż zamówienia" />
-                <Button layoutX="14.0" layoutY="612.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="155.0" text="Historia zamówień" />
-                <Button layoutX="14.0" layoutY="735.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="155.0" text="Lista klientów" />
+                <Button fx:id="Zloz_zamowienie2" onAction="#Zloz_zamowienie" layoutX="14.0" layoutY="495.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="155.0" text="Złóż zamówienia" />
+                <Button fx:id="Historia_zamowien" onAction="#Historia_zamowien" layoutX="14.0" layoutY="612.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="155.0" text="Historia zamówień" />
+                <Button fx:id="Lista_klientow" onAction="#Lista_klientow" layoutX="14.0" layoutY="735.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="155.0" text="Lista klientów" />
 
                 <Label layoutX="14.0" layoutY="177.0" prefHeight="37.0" prefWidth="155.0" text="  Menu:" textAlignment="CENTER">
                     <font>

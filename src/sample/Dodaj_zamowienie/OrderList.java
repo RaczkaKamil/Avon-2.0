@@ -125,7 +125,17 @@ public class OrderList implements Serializable {
         }
     }
 
+public int getCode(int id)
+{
 
+    int kod = 0;
+    for (Order o:listaZamowien) {
+        if (o.getId() == id) {
+            kod = o.getKod();
+        }
+    }
+    return kod;
+}
     public static void zapis( java.util.List<Order> o ) throws IOException {
         ObjectOutputStream objectOutputStream = new ObjectOutputStream(new FileOutputStream("ListaZamowienBierzacych.bin"));
         objectOutputStream.writeObject(o);

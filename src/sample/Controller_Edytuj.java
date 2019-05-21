@@ -12,6 +12,7 @@ import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
 import javafx.stage.Stage;
 import sample.Dodaj_zamowienie.OrderList;
+import sample.Dodaj_zamowienie.Sprawdzenie;
 
 import java.io.IOException;
 
@@ -25,6 +26,8 @@ public class Controller_Edytuj {
     Button Zmien;
     @FXML
     Button Usun;
+    @FXML
+    Button Zloz_zamowienie2;
 
     @FXML
     ComboBox<String> Wybor;
@@ -96,6 +99,46 @@ public class Controller_Edytuj {
     public void Dodaj_zamowienie( ActionEvent event ) throws IOException {
 
         Parent root = FXMLLoader.load(getClass().getResource("sample.fxml"));
+        Scene tabScene = new Scene(root, 1400, 900);
+
+        Stage windows = (Stage) ( (Node) event.getSource() ).getScene().getWindow();
+        windows.setScene(tabScene);
+        windows.setX(251);
+        windows.setY(35);
+        windows.show();
+
+    }
+
+
+    public void Zloz_zamowienie( ActionEvent event ) throws IOException {
+
+        Parent root = FXMLLoader.load(getClass().getResource("sample_zloz.fxml"));
+        Scene tabScene = new Scene(root, 1400, 900);
+
+        Stage windows = (Stage) ( (Node) event.getSource() ).getScene().getWindow();
+        windows.setScene(tabScene);
+        windows.setX(251);
+        windows.setY(35);
+        windows.show();
+
+    }
+
+    public void Historia_zamowien( ActionEvent event ) throws IOException {
+
+        Parent root = FXMLLoader.load(getClass().getResource("sample_historia.fxml"));
+        Scene tabScene = new Scene(root, 1400, 900);
+
+        Stage windows = (Stage) ( (Node) event.getSource() ).getScene().getWindow();
+        windows.setScene(tabScene);
+        windows.setX(251);
+        windows.setY(35);
+        windows.show();
+
+    }
+
+    public void Lista_klientow( ActionEvent event ) throws IOException {
+
+        Parent root = FXMLLoader.load(getClass().getResource("sample_lista.fxml"));
         Scene tabScene = new Scene(root, 1400, 900);
 
         Stage windows = (Stage) ( (Node) event.getSource() ).getScene().getWindow();
